@@ -17,3 +17,19 @@ let g:cppsyntaxcheck_map = "<F8>"
 let g:javacheckstyle_map = "<F7>"
 let g:javasyntaxcheck_map = "<F8>"
 ```
+
+来看看效果吧:
+
+1. cppcheck效果
+
+![image](https://github.com/cplusplus-study/staticanalytics/blob/master/doc/cppcheck_1.png)
+
+2. cpplint效果
+
+![image](https://github.com/cplusplus-study/staticanalytics/blob/master/doc/cpplint_1.png)
+
+3. 语法检查效果
+
+![image](https://github.com/cplusplus-study/staticanalytics/blob/master/doc/syntax_check_1.png)
+
+
