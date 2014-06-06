@@ -22,14 +22,14 @@ let g:javasyntaxcheck_map = "<F8>"
 
 1. cppcheck效果
 
-![image](https://github.com/cplusplus-study/staticanalytics/blob/master/doc/cppcheck_1.png)
+![image](https://raw.githubusercontent.com/cplusplus-study/staticanalytics/master/doc/cppcheck_1.png)
 
 2. cpplint效果
 
-![image](https://github.com/cplusplus-study/staticanalytics/blob/master/doc/cpplint_1.png)
+![image](https://raw.githubusercontent.com/cplusplus-study/staticanalytics/master/doc/cpplint_1.png)
 
 3. 语法检查效果
 
-![image](https://github.com/cplusplus-study/staticanalytics/blob/master/doc/syntax_check_1.png)
+![image](https://raw.githubusercontent.com/cplusplus-study/staticanalytics/master/doc/syntax_check_1.png)
 
 
